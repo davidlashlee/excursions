@@ -31,3 +31,13 @@ footer {
     text-align: right;
     color: grey;
 }
+
+.lastSection {
+    padding-top: 1.5rem;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    padding-top: 1.5rem;
+}
